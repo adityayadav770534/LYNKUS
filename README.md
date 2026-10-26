@@ -1,5 +1,5 @@
 # LYNKUS
-HYBRID NETWORK INTRUSION DETECTION SYSTEM
+## Hybrid Network Intrusion Detection System
 
 > Explainable, open-source, AI-powered network security.
 
