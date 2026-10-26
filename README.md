@@ -4,7 +4,7 @@
 > Explainable, open-source, AI-powered network security.
 
 **Project ID:** CS2601
-**Institute:** Bharat Institute of Technology, Meerut, Department of Computer Science and Engineering
+**Institute:** BIT Department of Computer Science and Engineering
 **Affiliation:** Dr. A. P. J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 **Academic Year:** 2026-27
 
